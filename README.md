@@ -1,4 +1,4 @@
-# Ex03 Time Table
+# Ex03 Time Tabclearle
 ## Date:8.03.2025
 
 ## AIM
